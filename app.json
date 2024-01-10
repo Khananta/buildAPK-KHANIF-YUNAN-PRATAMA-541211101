@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "xii-rpl-3-541211101-khanif-yunan-pratama-myapp",
+    "slug": "snack-b5b088fc-6912-425a-900f-448c02d54ba4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1700654b-a7ee-4afc-b058-854c7c031403"
+      }
+    }
+  }
+}
