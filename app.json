@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.khananta.snackb5b088fc6912425a900f448c02d54ba4"
     },
     "web": {
       "favicon": "./assets/favicon.png"

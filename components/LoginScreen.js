@@ -57,7 +57,6 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 24,
     backgroundColor: '#ffffff',
-    marginTop: 24,
   },
   banner: {
     marginTop: 0,
